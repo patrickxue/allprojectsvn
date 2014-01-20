@@ -1,0 +1,4 @@
+allprojectsvn
+=============
+
+all project svn
